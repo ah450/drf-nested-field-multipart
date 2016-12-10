@@ -1,1 +1,1 @@
-from .parsers import NestedMultipartParser
+from .parser import NestedMultipartParser
