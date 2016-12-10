@@ -10,7 +10,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='drf-nested-field-multipart',
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     packages=['drf_nested_field_multipart'],
     include_package_data=True,
